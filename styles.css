@@ -1,0 +1,93 @@
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: #0039A6;
+  border-radius: 50%;
+    color:white;
+   
+}
+
+.red {
+  height: 50px;
+  width: 50px;
+  background-color: #ff0000;
+  border-radius: 50%;
+    color:white;
+}
+
+.green {
+  height: 50px;
+  width: 50px;
+  background-color: #00cc00;
+  border-radius: 50%;
+    color:white;
+}
+
+.purple {
+  height: 50px;
+  width: 50px;
+  background-color: #cc33ff;
+  border-radius: 50%;
+    color:white;
+}
+
+.blue {
+  height: 50px;
+  width: 50px;
+  background-color: #87cefa;
+  border-radius: 50%;
+    color:white;
+}
+
+.orange {
+  height: 50px;
+  width: 50px;
+  background-color:#FFA500;
+  border-radius: 50%;
+    color:white;
+}
+
+.brown {
+  height: 50px;
+  width: 50px;
+  background-color:#964B00;
+  border-radius: 50%;
+    color:white;
+}
+
+.gray {
+  height: 50px;
+  width: 50px;
+  background-color:#C0C0C0;
+  border-radius: 50%;
+    color:white;
+}
+
+.yellow {
+  height: 50px;
+  width: 50px;
+  background-color:#faed27;
+  border-radius: 50%;
+    color:white;
+}
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
